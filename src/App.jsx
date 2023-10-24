@@ -11,7 +11,7 @@ const greeting = "Aquí encontraras una lista entera de todos nuestros productos
 
   return (
     <>
-    <h1>Bienvenido a mi entrega #1</h1>
+    <h1>Bienvenido a mi entrega #1 :</h1>
     <NavBar/>
     <ItemListContainer greeting  = {greeting}/>
     </>
