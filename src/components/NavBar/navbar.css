@@ -1,0 +1,14 @@
+.titulo {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+    
